@@ -15,3 +15,6 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ```python3
 myVar = "Hello, world!"
 ```
+- [ ] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [ ] Introduce myself to the world
